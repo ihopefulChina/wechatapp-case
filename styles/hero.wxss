@@ -1,6 +1,9 @@
 .hero{
 
 }
+.hero.white{
+  background: #ffffff;
+}
 .hero iamge,.hero vieo{
   height: 38.2vh;
 }
